@@ -1,0 +1,91 @@
+# Copyright (C) 2023 Optima Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: graceful chic blog\n"
+"Report-Msgid-Bugs-To: https://optimathemes.com/\n"
+"POT-Creation-Date: 2023-12-12 07:07+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: functions.php:32
+msgid "Top Navigaion"
+msgstr ""
+
+#: functions.php:39
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:53
+msgid "Enable Top Navigation"
+msgstr ""
+
+#: functions.php:68
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: functions.php:81
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: functions.php:95
+msgid "Top Navigation Text Color"
+msgstr ""
+
+#: functions.php:106
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:116
+msgid "Set-up Top Menu"
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/columns/column-one.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/columns/column-one.php:67
+#: template-parts/single/post-contents.php:46
+msgid " - By"
+msgstr ""
+
+#: template-parts/columns/column-one.php:92
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/columns/column-one.php:109
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/columns/column-one.php:110
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/single/post-contents.php:62
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/single/post-contents.php:76
+msgid "Comments"
+msgstr ""

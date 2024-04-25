@@ -1,0 +1,1255 @@
+# Copyright (C) 2023 Optima Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: graceful\n"
+"Report-Msgid-Bugs-To: https://optimathemes.com/\n"
+"POT-Creation-Date: 2023-07-28 14:16+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:19
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr ""
+
+#: comments.php:25
+msgid "Post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: comments.php:48
+#, php-format
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:68
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:190
+msgid "Sidebar Right"
+msgstr ""
+
+#: functions.php:192
+msgid "Add widgets here, for right sidebar."
+msgstr ""
+
+#: functions.php:202
+msgid "Sidebar Left"
+msgstr ""
+
+#: functions.php:204
+msgid "Add widgets here, for left sidebar."
+msgstr ""
+
+#: functions.php:214 inc/admin/about-theme.php:185
+msgid "Sidebar Slide Menu"
+msgstr ""
+
+#: functions.php:216
+msgid "Add widgets here, for slide menu sidebar."
+msgstr ""
+
+#: functions.php:226
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:228
+msgid "Add widgets here, for the footer."
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-functions.php:78 inc/template-functions.php:93
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-functions.php:194
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-functions.php:197 inc/template-functions.php:220
+msgid "&nbsp;at&nbsp;"
+msgstr ""
+
+#: inc/template-functions.php:199 inc/template-functions.php:224
+msgid "[Edit]"
+msgstr ""
+
+#: inc/template-functions.php:241
+msgid "Your comment is under moderation."
+msgstr ""
+
+#: inc/template-functions.php:376
+msgid "Set-up Main Menu"
+msgstr ""
+
+#: inc/template-functions.php:395
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/template-functions.php:396
+msgid "Graceful Theme "
+msgstr ""
+
+#: inc/template-functions.php:397
+msgid "is now installed and ready to use."
+msgstr ""
+
+#: inc/template-functions.php:398
+msgid ""
+"Click below to see theme documentation, plugins to install and other details "
+"to get started."
+msgstr ""
+
+#: inc/template-functions.php:399
+msgid "Get Started with Graceful"
+msgstr ""
+
+#: inc/admin/about-theme.php:9
+msgid "About Graceful Theme"
+msgstr ""
+
+#: inc/admin/about-theme.php:9
+msgid "Graceful Theme"
+msgstr ""
+
+#: inc/admin/about-theme.php:17
+msgid "Welcome to Graceful!"
+msgstr ""
+
+#: inc/admin/about-theme.php:19
+msgid ""
+"Graceful is a free multi-purpose WordPress Blog theme. Its perfect for any "
+"kind of blog or website: personal, professional, tech, fashion, travel, "
+"health, lifestyle, food, blogging etc. Its fully Responsive and Retina "
+"Display ready, clean, modern and minimal design. Graceful is WooCommerce "
+"compatible, SEO friendly and also has RTL support."
+msgstr ""
+
+#: inc/admin/about-theme.php:27
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/about-theme.php:30 inc/admin/about-theme.php:84
+msgid "Graceful Pro"
+msgstr ""
+
+#: inc/admin/about-theme.php:42
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/about-theme.php:44
+msgid ""
+"Find all theme options conveniently located here. Once you have reviewed the "
+"Theme Documentation, we suggest opening the Theme Customizer to experiment "
+"with various settings. It will be an enjoyable experience!"
+msgstr ""
+
+#: inc/admin/about-theme.php:46
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/admin/about-theme.php:50
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/about-theme.php:51
+msgid ""
+"Graceful theme provides full support for Recommended Plugins, styling them "
+"to seamlessly blend with the themes design and ensure optimal performance. "
+"Optional, yet advantageous."
+msgstr ""
+
+#: inc/admin/about-theme.php:53
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/admin/about-theme.php:60
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/about-theme.php:63
+msgid ""
+"Require additional information? Explore our documentation for guidance on "
+"utilizing Graceful to its fullest potential."
+msgstr ""
+
+#: inc/admin/about-theme.php:65
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/admin/about-theme.php:80 inc/admin/about-theme.php:274
+msgid "Get Graceful Pro"
+msgstr ""
+
+#: inc/admin/about-theme.php:83
+msgid "Graceful Free"
+msgstr ""
+
+#: inc/admin/about-theme.php:90
+msgid "Responsive and Retina Ready"
+msgstr ""
+
+#: inc/admin/about-theme.php:91
+msgid ""
+"Enjoy a fully responsive design that adapts seamlessly to any device screen, "
+"including high-resolution Retina displays."
+msgstr ""
+
+#: inc/admin/about-theme.php:98
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/admin/about-theme.php:99
+msgid ""
+"Easily translate every element of the theme, as it comes with language "
+"support and includes an \"graceful.pot\" file for effortless translation."
+msgstr ""
+
+#: inc/admin/about-theme.php:106
+msgid "RTL Support"
+msgstr ""
+
+#: inc/admin/about-theme.php:107
+msgid ""
+"Catering to languages that are read from right to left, such as Arabic and "
+"Hebrew, the theme provides an RTL stylesheet for proper content adaptation."
+msgstr ""
+
+#: inc/admin/about-theme.php:114
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: inc/admin/about-theme.php:115
+msgid ""
+"Seamlessly integrate the best eCommerce solution for WordPress websites, "
+"allowing you to create your own shop and sell a wide range of products, from "
+"digital goods to books."
+msgstr ""
+
+#: inc/admin/about-theme.php:122
+msgid "Contact Form 7 Support"
+msgstr ""
+
+#: inc/admin/about-theme.php:123
+msgid ""
+"Enjoy compatibility with the popular Contact Form 7 plugin, enabling you to "
+"create versatile and customizable contact forms easily."
+msgstr ""
+
+#: inc/admin/about-theme.php:130
+msgid "Image & Text Logos"
+msgstr ""
+
+#: inc/admin/about-theme.php:131
+msgid ""
+"Personalize your websites branding by either uploading a custom logo image "
+"(with adjustable size) or using a text-based logo."
+msgstr ""
+
+#: inc/admin/about-theme.php:132 inc/admin/about-theme.php:143
+#: inc/admin/about-theme.php:198
+msgid "Pro Version:"
+msgstr ""
+
+#: inc/admin/about-theme.php:132
+msgid "Adjust position of Logo to fit custom header design."
+msgstr ""
+
+#: inc/admin/about-theme.php:140
+msgid "Posts Slider"
+msgstr ""
+
+#: inc/admin/about-theme.php:141
+msgid ""
+"Display up to 3 random blog posts in the header area with a visually "
+"appealing slider."
+msgstr ""
+
+#: inc/admin/about-theme.php:143
+msgid ""
+"Unlimited Slides. Feature specific posts and order by date or random. Set as "
+"Autoplay and enable or disable elements with more control."
+msgstr ""
+
+#: inc/admin/about-theme.php:151
+msgid "Background Image/Color"
+msgstr ""
+
+#: inc/admin/about-theme.php:152
+msgid ""
+"Customize the body background by either setting a custom image or choosing a "
+"specific color."
+msgstr ""
+
+#: inc/admin/about-theme.php:160
+msgid "Classic Layout"
+msgstr ""
+
+#: inc/admin/about-theme.php:161
+msgid ""
+"Opt for the standard one-column blog feed layout for a clean and timeless "
+"look."
+msgstr ""
+
+#: inc/admin/about-theme.php:168
+msgid "Multi-level Sub Menu Support"
+msgstr ""
+
+#: inc/admin/about-theme.php:169
+msgid ""
+"Create submenus with multiple levels to accommodate complex navigation "
+"structures."
+msgstr ""
+
+#: inc/admin/about-theme.php:176
+msgid "Left & Right Sidebars"
+msgstr ""
+
+#: inc/admin/about-theme.php:177
+msgid ""
+"Widgetized areas on the left and right sides, which can be enabled or "
+"disabled globally."
+msgstr ""
+
+#: inc/admin/about-theme.php:186
+msgid ""
+"An alternative widgetized sidebar that remains hidden by default and appears "
+"upon clicking."
+msgstr ""
+
+#: inc/admin/about-theme.php:195
+msgid "Special Links (Feature Boxes)"
+msgstr ""
+
+#: inc/admin/about-theme.php:196
+msgid ""
+"Display up to 5 eye-catching linked images beneath the header, serving as "
+"custom page links or banners/ads."
+msgstr ""
+
+#: inc/admin/about-theme.php:198
+msgid "Upto 5 Special Links."
+msgstr ""
+
+#: inc/admin/about-theme.php:206
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/admin/about-theme.php:207
+msgid ""
+"With just a single click, you can import the exact content displayed on our "
+"demo website. This includes menus, posts, pages, widgets, and more."
+msgstr ""
+
+#: inc/admin/about-theme.php:214
+msgid "Customizable Colors"
+msgstr ""
+
+#: inc/admin/about-theme.php:215
+msgid ""
+"Unlimited color options to personalize your header, content, and footer "
+"independently, allowing you to create a unique look and feel."
+msgstr ""
+
+#: inc/admin/about-theme.php:222
+msgid "Extensive Google Fonts Collection"
+msgstr ""
+
+#: inc/admin/about-theme.php:223
+msgid ""
+"Choose from over 300 Google Fonts, giving you a wide range of typography "
+"options. Adjust font size, font weight etc. to achieve the perfect style."
+msgstr ""
+
+#: inc/admin/about-theme.php:230
+msgid "Social Media Sharing Icons"
+msgstr ""
+
+#: inc/admin/about-theme.php:231
+msgid ""
+"Options to share your blog posts on popular social media platforms such as "
+"Twitter, Facebook, Pinterest, Linkedin, etc."
+msgstr ""
+
+#: inc/admin/about-theme.php:238
+msgid "Sticky Navigation"
+msgstr ""
+
+#: inc/admin/about-theme.php:239
+msgid ""
+"Keep your main navigation fixed at the top of the page for easy access and "
+"enhanced user experience."
+msgstr ""
+
+#: inc/admin/about-theme.php:246
+msgid "Instagram Widget Area"
+msgstr ""
+
+#: inc/admin/about-theme.php:247
+msgid ""
+"Display your Instagram Images in a dedicated widget area located in the "
+"footer of your website, to showcase recent photos."
+msgstr ""
+
+#: inc/admin/about-theme.php:254
+msgid "JetPack Integration"
+msgstr ""
+
+#: inc/admin/about-theme.php:255
+msgid ""
+"Take advantage of the comprehensive toolkit provided by Jetpack for "
+"WordPress. Secure and grow your site using this all-in-one bundle."
+msgstr ""
+
+#: inc/admin/about-theme.php:262
+msgid "Gracefulg Pro Widgets"
+msgstr ""
+
+#: inc/admin/about-theme.php:263
+msgid ""
+"Benefit from a range of professional widgets including Graceful Author, Ads, "
+"and Social Icons, enhancing the functionality and appearance of your website."
+msgstr ""
+
+#: inc/admin/about-theme.php:314
+msgid "Installed"
+msgstr ""
+
+#: inc/admin/about-theme.php:317
+msgid "Install Now"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:15
+msgid "Check Graceful PRO"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:27
+msgid "Pro Version"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:28
+msgid ""
+"Upgrade to pro version for more customization options and Premium Support."
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:29
+msgid "Check Graceful Pro"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:32
+msgid "Documentation and Demo"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:33
+msgid "Check Documentation"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:36
+msgid "Check Demo Content"
+msgstr ""
+
+#: inc/customizer/theme-options/about.php:45
+msgid "About Graceful"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:9
+#: inc/customizer/theme-options/basic-layouts.php:31
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:10
+msgid "Contained"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:11
+#: inc/customizer/theme-options/basic-layouts.php:32
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:23
+msgid "Header Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:44
+msgid "Post Slider Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:60
+msgid "Content Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:76
+msgid "Single Content Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:92
+msgid "Footer Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:101
+msgid "Basic Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:115
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:131
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:147
+msgid "Show Left Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/basic-layouts.php:163
+msgid "Show Right Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:13
+msgid "Blog List Page"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:19
+#: inc/customizer/theme-options/blogs-page.php:138
+msgid "None"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:20
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:21
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:33
+msgid "Post Description"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:41
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:42
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:54
+msgid "Site Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:70
+#: inc/customizer/theme-options/single-page.php:29
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:86
+#: inc/customizer/theme-options/single-page.php:44
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:101
+#: inc/customizer/theme-options/single-page.php:59
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:116
+#: inc/customizer/theme-options/single-page.php:74
+msgid "Show Drop Caps"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:131
+#: inc/customizer/theme-options/single-page.php:89
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:139
+msgid "Related"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:151
+msgid "Related Posts Display"
+msgstr ""
+
+#: inc/customizer/theme-options/blogs-page.php:166
+msgid "Options "
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:12
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:26
+msgid "Brand Color"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:45
+msgid "Header Text Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:59
+msgid "Show Header Text Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/colors.php:74
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/loading-animation.php:14
+msgid "Page Loading Animation"
+msgstr ""
+
+#: inc/customizer/theme-options/loading-animation.php:28
+msgid "Enable Page Loading Animation"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:24
+msgid "Enable Main Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:33
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:34
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:35
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:46
+msgid "Align"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:63
+msgid "Show Search Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/navigation.php:79
+msgid "Show Sidebar Slide Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:10
+msgid "Post Slider"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:24
+msgid "Enable Post Slider"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:44
+msgid "Display Posts"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:66
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:82
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:101
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:116
+msgid "Show Pagination Dots"
+msgstr ""
+
+#: inc/customizer/theme-options/post-slider.php:127
+msgid "Note: Only posts with featured image will appear in Posts Slider."
+msgstr ""
+
+#: inc/customizer/theme-options/single-page.php:15
+msgid "Single Post Page"
+msgstr ""
+
+#: inc/customizer/theme-options/single-page.php:104
+msgid "Show Author Description"
+msgstr ""
+
+#: inc/customizer/theme-options/single-page.php:119
+msgid "Related Posts - Display"
+msgstr ""
+
+#: inc/customizer/theme-options/site-footer.php:15
+msgid "Site Footer"
+msgstr ""
+
+#: inc/customizer/theme-options/site-footer.php:31
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/theme-options/site-footer.php:47
+msgid "Options"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:17
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/theme-options/social-media.php:14
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/theme-options/social-media.php:28
+msgid "Open Social Pages in New Window"
+msgstr ""
+
+#: inc/customizer/theme-options/social-media.php:78
+#: inc/customizer/theme-options/social-media.php:113
+#: inc/customizer/theme-options/social-media.php:147
+#: inc/customizer/theme-options/social-media.php:181
+msgid "Select Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/social-media.php:94
+#: inc/customizer/theme-options/social-media.php:129
+#: inc/customizer/theme-options/social-media.php:163
+#: inc/customizer/theme-options/social-media.php:197
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/customizer/theme-options/social-media.php:99
+#: inc/customizer/theme-options/social-media.php:134
+#: inc/customizer/theme-options/social-media.php:168
+#: inc/customizer/theme-options/social-media.php:202
+msgid "Complete Link"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template-parts/columns/column-one.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/columns/column-one.php:67
+#: template-parts/single/post-contents.php:51
+msgid " - By"
+msgstr ""
+
+#: template-parts/columns/column-one.php:94
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/columns/column-one.php:111
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/columns/column-one.php:112
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/footer/footer-bottom.php:19
+msgid "Y"
+msgstr ""
+
+#: template-parts/footer/footer-bottom.php:27
+msgid "Graceful Theme by "
+msgstr ""
+
+#: template-parts/footer/footer-bottom.php:29
+msgid "Optima Themes"
+msgstr ""
+
+#: template-parts/page/pages-contents.php:38
+#: template-parts/single/post-contents.php:64
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/sections/post-slider.php:73
+msgid "Read More"
+msgstr ""
+
+#: template-parts/sections/site-pagination.php:85
+msgid "Older Posts"
+msgstr ""
+
+#: template-parts/sections/site-pagination.php:93
+msgid "Newer Posts"
+msgstr ""
+
+#: template-parts/sections/site-pagination.php:100
+msgid "Load More"
+msgstr ""
+
+#: template-parts/sidebars/sidebar-left.php:25
+msgid "Add Widgets in Left Sidebar"
+msgstr ""
+
+#: template-parts/sidebars/sidebar-right.php:25
+msgid "Add Widgets in Right Sidebar"
+msgstr ""
+
+#: template-parts/sidebars/sidebar-slidemenu.php:25
+msgid "Add Widgets to Sidebar Slide Menu section in Widgets"
+msgstr ""
+
+#: template-parts/single/post-contents.php:78
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/single/post-contents.php:78
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/single/post-contents.php:78
+msgid "Comments"
+msgstr ""

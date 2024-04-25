@@ -1,0 +1,255 @@
+/*
+Theme Name:     TarotChild
+Description:    
+Author:         admin
+Template:       graceful
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+entry-header {
+    line-height: 1;
+    text-align: center;
+	background: linear-gradient(90deg, rgba(77,6,30,1) 0%, rgba(123,15,52,1) 10%, rgba(194,93,125,1) 35%, rgba(241,144,173,1) 50%, rgba(194,93,125,1) 65%, 		           rgba(123,15,52,1) 90%, rgba(77,6,30,1) 100%);
+}
+
+footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+ 	background: linear-gradient(90deg, rgba(77,6,30,1) 0%, rgba(123,15,52,1) 10%, rgba(194,93,125,1) 35%, rgba(241,144,173,1) 50%, rgba(194,93,125,1) 65%, 		         rgba(123,15,52,1) 90%, rgba(77,6,30,1) 100%);
+}
+
+h3 {
+	color: white;
+}
+
+/* Change button text color*/
+#primary h3, #primary h4, #primary h5, #primary h6, .post-page-content > p:first-child:first-letter, #primary .author-info h4 a, #primary .related-posts h4 a, #primary .content-pagination .previous-page a, #primary .content-pagination .next-page a, blockquote, #primary .post-share a {
+	color: white;
+}
+
+/* Change Button color, shadow, shape, text font, alignment, size */
+
+#main-content .al_archive a h3.product-name, #page-container .al_archive a h3.product-name, #primary .page .entry-content .al_archive h3.product-name, #product_listing .al_archive .product-name, #product_listing .al_archive h3.product-name, .al_archive .product-name, .product-list .al_archive .product-name, .product-subcategories .al_archive .product-name {
+    background-color: #9e1e53;
+    background-color: rgba(150, 25, 83, .8);
+    max-width: 80%;
+	box-shadow: none;
+    padding: 10px 10px;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+    color: #fff;
+    font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+    line-height: 1.1;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0;
+    text-shadow: none;
+    z-index: 10;
+    word-wrap: initial;
+	border-radius: 5px;
+}
+
+/* Change product border */
+
+.al_archive {
+    max-width: 100%;
+    background-size: 100% auto;
+	box-shadow: none;
+    position: relative;
+    cursor: pointer;
+    float: left;
+    width: 47.5%;
+    margin: 1% 2% 2% 1%;
+    line-height: 1.5;
+    height: auto;
+    z-index: 1;
+	border: 8px double goldenrod;
+	border-radius: 5px;
+}
+
+/* Center product category image & round corners */
+.entry-content img.product-category-image, .product-category-image {
+   
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    float: none;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+	background: black;
+	border-radius: 18px;
+}
+
+/* Change product sort/filter bar */
+.product-sort-bar {
+    padding: 30px 7px 0;
+    margin: 20px auto;
+    overflow: visible;
+    font-size: 14px;
+    clear: both;
+    position: relative;
+}
+
+/* Change Price Container */
+#container.content-area.product-catalog .al_archive .product-price.blue-price, .al_archive .product-price.blue-price {
+ 	background-color: darkcyan;
+	border-radius: 5px;
+}
+
+/* Change price font weight */
+.product-price {
+    font-weight: 500;
+}
+
+/* Change site description color */
+.site-description {
+    color: silver;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    margin-top: 5px;
+	padding: 2px;
+	font-style: italic;
+}
+
+/* Change Title, add shadow */
+.site-branding a {
+    color: white;
+    background: white;
+	text-shadow: 4px -2px 2px #9e214b;
+}
+
+/* Change body text font */
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 24.6px;
+    margin: 0;
+}
+
+/* change continue reading text */
+.continue-read a {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    letter-spacing: 4px;
+    line-height: 1px;
+    padding: 37px;
+    text-transform: uppercase;
+	text-shadow: 1px 1px 1px whitesmoke;
+	text-decoration: underline;
+	font-family: "Montserrat", sans-serif;
+	color: black;
+}
+
+/* edit post footer */
+.post-footer {
+  	padding: 1px !important;
+}
+
+/*change arrow to return to top color*/
+.fa {
+    color: darkcyan;
+	font-weight: bold;
+}
+
+/* change search icon color */
+.fa-search::before {
+    content: "";
+	color: whitesmoke;
+}
+
+/* Edit main menu background */
+#main-navigation {
+    background-color: white;
+	background: linear-gradient(90deg, rgb(77, 6, 30) 0%, rgb(123, 15, 52) 10%, rgb(194, 93, 125) 35%, rgb(241, 144, 173) 50%, rgb(194, 93, 125) 65%, rgb(123, 15, 52) 90%, rgb(77, 6, 30) 100%);
+    color: white;
+    border-bottom: 1px solid 	#ebebeb;
+    position: relative;
+	z-index: 1100 !important;
+	text-align: center;
+}
+
+/* edit site menu list */
+#site-menu li a {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 44px;
+    text-transform: uppercase;
+	text-shadow: 1px -1px 1px whitesmoke;
+	text-align: center;
+}
+
+/* edit post title*/
+h2 {
+    font-family: 'Cormorant Garamond', 'Times', serif;
+    font-weight: 500;
+	padding: 15px;
+}
+
+
+/* edit post metadata: date info, author font  */
+.blog article .post-date {
+    color: #111111 !important;
+    font-family: 'Cormorant Garamond', 'Times', serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.blog article .post-header .post-meta a {
+   color: #111111 !important;
+   font-family: 'Cormorant Garamond', 'Times', serif;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 500;
+	text-decoration: underline 0.5px;
+}
+
+.blog article .post-title-author {
+    color: #111111 !important;
+    display: inline-block;
+    font-family: 'Cormorant Garamond', 'Times', serif;
+    font-size: 16px;
+     font-weight: 500;
+}
+/* change footer text color */
+#site-footer, #site-footer a, #site-footer select, #site-footer input, #site-footer textarea {
+    color: whitesmoke;
+}
+
+.footer-copyright {
+    font-size: 16px;
+}
+
+.footer-credits {
+    float: left;
+    font-size: 14px;
+}
+
+
+/* change gradient opacity 
+footer {
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(77, 6, 30, 0.7) 0%, rgba(123, 15, 52, 0.7) 10%, rgba(194, 93, 125, 1) 35%, rgba(241, 144, 173, 0.7) 50%, rgba(194, 93, 125, 0.7) 65%, rgba(123, 15, 52, 0.7) 90%, rgba(77, 6, 30, 0.7) 100%);
+*/
+
+
+*/
+
+
+

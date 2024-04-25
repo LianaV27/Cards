@@ -1,0 +1,24 @@
+
+/* Social Media Icon CSS */
+li[id*="customize-control-graceful_options-social_m_icon"] select {
+	font-family: "FontAwesome";
+	float: right;
+	width: 80px;
+}
+
+li[id*="customize-control-graceful_options-social_m_icon"] span {
+	float: left;
+}
+
+#customize-control-graceful_options-social_m_icon_1 label, 
+#customize-control-graceful_options-social_m_icon_2 label, 
+#customize-control-graceful_options-social_m_icon_3 label, 
+#customize-control-graceful_options-social_m_icon_4 label {
+	float: left;
+}
+
+li[id*="customize-control-graceful_options-social_m_icon"] {
+	border-top: 1px solid #aaaaaa;
+    padding-top: 12px;
+    margin-top: 2px;
+}
